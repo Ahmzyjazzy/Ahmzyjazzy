@@ -4,6 +4,6 @@ Fullstack Software Engineer | frontstack lover ⚡️ Contributing to the Flutte
 
 Work with #dart #flutter #javascript #vue.js #nuxtjs #php #tailwindcss
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/zfinix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='18'>](https://codepen.io/chiziaruhoma-ogbonda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>](https://stackoverflow.com/users/chiziaruhoma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://chizi.tech)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/ahmzyjazzy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='18'>](https://codepen.io/ahmzyjazzy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>](https://stackoverflow.com/users/10761264/ahmzyjazzy)  <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://chizi.tech) --> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmzyjazzy&show_icons=true)  
