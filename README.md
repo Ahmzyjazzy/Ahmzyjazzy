@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ahmed Olanrewaju ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Software Engineer | frontstack lover ⚡️ 
+Fullstack Software Engineer | frontstack lover ⚡️ 
 
 <!--Contributing to the Flutter/Dart ecosystem through contents, tutorials and toolings. -->
 
