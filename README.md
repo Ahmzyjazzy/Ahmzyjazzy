@@ -8,7 +8,7 @@ Technologies I work with:
 - Typescript/Javascript #nodejs #nestjs #reactjs #nextjs #vuejs #nuxtjs #strapi
 - Dart/Flutter #mobile #web #desktop
 - PHP/Laravel #web
-- Databases/Cache #MssqlServer #Mysql #MongoDB #DynamoDb #Redis #Firebase
+- Databases/Cache #MssqlServer #Mysql #PostgreSQL #MongoDB #DynamoDb #Redis #Firebase
 - ServerSide/Deployment #Nginx #Apache #Tomcat #Ubuntu #IIS #Docker #VirtualMachine[AWS-EC2]
 - Microservices #Kafka #RabbitMQ #ZooKeeper #NginxAPIGateway #Eventuate #Java
 - Testing/CodeQuality #Jenkins #SonarQube #GithubAction #Travis #Coverall
