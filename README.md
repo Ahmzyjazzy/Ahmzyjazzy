@@ -5,12 +5,10 @@ Fullstack Software Engineer | frontstack lover ⚡️
 <!--Contributing to the Flutter/Dart ecosystem through contents, tutorials and toolings. -->
 
 Technologies I work with: 
-- Dart/Flutter
-- PHP/Laravel 
-- Javascript #vue.js #nuxtjs #nodejs #storyblock
-- Tailwindcss
-- Firebase
-- MssqlServer/Mysql/MongoDB
+- Typescript/Javascript #nodejs #nestjs #reactjs #nextjs #vuejs #nuxtjs #strapi
+- Dart/Flutter #mobile #web #desktop
+- PHP/Laravel #web
+- Databases/Cache #MssqlServer #Mysql #MongoDB #DynamoDb #Redis #Firebase
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/ahmzyjazzy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='18'>](https://codepen.io/ahmzyjazzy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>](https://stackoverflow.com/users/10761264/ahmzyjazzy)  <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://ahmzyjazzy.tech) --> 
 
