@@ -10,7 +10,7 @@ Technologies I work with:
 - PHP/Laravel #web
 - Databases/Cache #MssqlServer #Mysql #MongoDB #DynamoDb #Redis #Firebase
 - ServerSide/Deployment #Nginx #Apache #Tomcat #Ubuntu #IIS #Docker #VirtualMachine[AWS-EC2]
-- Microservices #Kafka #RabbitMQ #ZooKeeper #NginxAPIGateway 
+- Microservices #Kafka #RabbitMQ #ZooKeeper #NginxAPIGateway #Eventuate
 - Testing/CodeQuality #Jenkins #SonarQube #GithubAction #Travis #Coverall
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/ahmzyjazzy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='18'>](https://codepen.io/ahmzyjazzy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>](https://stackoverflow.com/users/10761264/ahmzyjazzy)  <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://ahmzyjazzy.tech) --> 
