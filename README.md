@@ -5,7 +5,7 @@ Fullstack Software Engineer | backend heavy ⚡️
 <!-- Contributing to the Flutter/Dart ecosystem through contents, tutorials and toolings. -->
 
 Technologies I work with: 
-- Typescript/Javascript #nodejs #nestjs #vuejs #nuxtjs #strapi
+- Typescript/Javascript #nodejs #nestjs #vuejs #nuxtjs #react #nextjs #strapi
 - PHP/Laravel #livewire #volt #api #blade
 - Dart/Flutter #mobile #web #desktop #codemagic
 - Testing #Vitest #Pactum #Jest #Mocha #Pest #PHPUnit
