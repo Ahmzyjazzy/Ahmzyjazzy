@@ -2,6 +2,8 @@
 
 Fullstack Software Engineer | frontstack lover ⚡️ 
 
+> Building and Experimenting AI Agent with Gemini and OpenAI 
+
 <!-- Contributing to the Flutter/Dart ecosystem through contents, tutorials and toolings. -->
 
 Technologies I work with: 
