@@ -2,7 +2,7 @@
 
 Fullstack Software Engineer | AI lover ⚡️ 
 
-> Building and Experimenting AI Agent with Gemini and OpenAI 
+> Contributing to the Gemini Fullstack AI Experience through open source contents, tutorials and toolings 
 
 <!-- Contributing to the Gemini ecosystem through contents, tutorials and toolings. -->
 
